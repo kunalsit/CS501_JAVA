@@ -1,0 +1,28 @@
+####################################################
+#                                                  #
+# 	Group-Name:  CS501 Project Final               #
+# 	Contributer: Kunal Goyal(CWID: 10471054)       #
+#                                                  #
+####################################################
+
+
+How to Start Appliation:
+
+* We have a file available Start.java, We need to compile and run the mentioned file then all we would be able to run tha game.
+
+How to play Connect 4 Game?
+
+Steps:
+1. We have 2 players Limit for playing this game, Player 1 and Player 2.
+2. Each player will be assigned with one color, for more specific about the color,  Player 1 will be in red color and Player 2 will be in blue color.
+2. The goal is to have 4 connecting checkers in of the same color. This can be done in three ways. Horizontally, Vertically or Diagonally.
+3. Player 1 will start the game by placing first checker in any place.
+4. To put a checker in any column, press that columns number and the checker in respective player's color should be there.
+5. Each Player will get chance to add checker one by one.
+6. This game works like stack so no player will be able to put the checker in the middle or any other random place in the column. i.e. if you have press column 1 for adding checker at column 1, then the checker will be automatically added to the bottom of the column, next time when the same column will be pressed again, the new checker will be on top of the old checker in column 1.
+7. When Game will be completed then it will ask if we want to play game again. if we press YEs then it will start new game and if we will press NO then it will exit the game and window.
+
+Enjoy the game!
+
+Good luck!
+Kunal
